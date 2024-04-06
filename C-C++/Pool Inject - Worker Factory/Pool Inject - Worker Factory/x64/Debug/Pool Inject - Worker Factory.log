@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\vuong\source\repos\Pool Inject - Worker Factory\Pool Inject - Worker Factory\main.cpp(160,3): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'NTSTATUS'
+C:\Users\vuong\source\repos\Pool Inject - Worker Factory\Pool Inject - Worker Factory\main.cpp(160,3): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'NTSTATUS'
+  Pool Inject - Worker Factory.vcxproj -> C:\Users\vuong\source\repos\Pool Inject - Worker Factory\x64\Debug\Pool Inject - Worker Factory.exe
