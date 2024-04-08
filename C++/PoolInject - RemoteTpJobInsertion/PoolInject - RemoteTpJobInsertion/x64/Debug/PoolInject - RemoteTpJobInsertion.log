@@ -1,5 +1,0 @@
-﻿  main.cpp
-C:\Users\vuong\source\repos\PoolInject - RemoteTpJobInsertion\PoolInject - RemoteTpJobInsertion\main.cpp(85,4): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
-C:\Users\vuong\source\repos\PoolInject - RemoteTpJobInsertion\PoolInject - RemoteTpJobInsertion\main.cpp(85,4): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
-C:\Users\vuong\source\repos\PoolInject - RemoteTpJobInsertion\PoolInject - RemoteTpJobInsertion\main.cpp(46,9): warning C4101: 'byteWritten': unreferenced local variable
-  PoolInject - RemoteTpJobInsertion.vcxproj -> C:\Users\vuong\source\repos\PoolInject - RemoteTpJobInsertion\x64\Debug\PoolInject - RemoteTpJobInsertion.exe
