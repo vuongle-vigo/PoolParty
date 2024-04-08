@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\vuong\source\repos\PoolInject - RemoteTpWaitInsertion\PoolInject - RemoteTpWaitInsertion\main.cpp(130,3): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'NTSTATUS'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpWaitInsertion\PoolInject - RemoteTpWaitInsertion\main.cpp(130,3): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'NTSTATUS'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpWaitInsertion\PoolInject - RemoteTpWaitInsertion\main.cpp(134,3): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpWaitInsertion\PoolInject - RemoteTpWaitInsertion\main.cpp(134,3): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
+  Generating code
+  1 of 122 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PoolInject - RemoteTpWaitInsertion.vcxproj -> C:\Users\vuong\source\repos\PoolInject - RemoteTpWaitInsertion\x64\Release\PoolInject - RemoteTpWaitInsertion.exe

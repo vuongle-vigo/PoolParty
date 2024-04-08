@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(81,4): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(81,4): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(115,3): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(115,3): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(128,3): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(128,3): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(132,3): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(132,3): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(142,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(142,9):
+  consider using '%zd' in the format string
+  
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(146,3): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'NTSTATUS'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(146,3): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'NTSTATUS'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(153,39): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(154,3): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\PoolInject - RemoteTpIoInsertion\main.cpp(154,3): warning C4313: 'printf': '%p' in format string conflicts with argument 1 of type 'DWORD'
+  PoolInject - RemoteTpIoInsertion.vcxproj -> C:\Users\vuong\source\repos\PoolInject - RemoteTpIoInsertion\x64\Debug\PoolInject - RemoteTpIoInsertion.exe

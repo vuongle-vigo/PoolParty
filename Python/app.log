@@ -1,0 +1,6 @@
+2024-04-08 16:25:57,633 - INFO - [+] Found the process with handle: 376
+2024-04-08 16:25:57,634 - INFO - [+] Found object type IoCompletion
+2024-04-08 16:25:57,634 - INFO - [+] Duplicate Handle Success c_void_p(360)
+2024-04-08 16:25:57,634 - INFO - [+] Shellcode located in remote process at 0x2015c5f0000
+2024-04-08 16:25:57,634 - INFO - [+] WriteProcessMemory shellcode to remote process successfully at 0x2015c5f0000
+2024-04-08 16:25:58,638 - ERROR - [-] NtAlpcConnectPort failed with NTSTATUS 0x102
